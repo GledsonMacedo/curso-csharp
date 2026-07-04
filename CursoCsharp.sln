@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37301.10 d17.14
+VisualStudioVersion = 17.14.37301.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentos", "01-fundamentos\Fundamentos.csproj", "{8D026211-3938-4A49-8495-63FA959790B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-atribuicao", "02-atribuicao\02-atribuicao.csproj", "{0AEB4C9B-C416-4AB2-89CC-051219956A25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8D026211-3938-4A49-8495-63FA959790B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D026211-3938-4A49-8495-63FA959790B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D026211-3938-4A49-8495-63FA959790B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AEB4C9B-C416-4AB2-89CC-051219956A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AEB4C9B-C416-4AB2-89CC-051219956A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AEB4C9B-C416-4AB2-89CC-051219956A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AEB4C9B-C416-4AB2-89CC-051219956A25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
